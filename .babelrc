@@ -1,0 +1,8 @@
+{
+  "presets": ["es2015", "react", "flow-vue"],
+  "plugins": ["syntax-dynamic-import", "transform-decorators-legacy"],
+  "ignore": [
+    "dist/*.js",
+    "packages/**/*.js"
+  ]
+}
